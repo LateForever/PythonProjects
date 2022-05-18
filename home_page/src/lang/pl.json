@@ -1,0 +1,24 @@
+{
+    "@metadata": {
+        "authors": [
+            "Albert"
+        ],
+        "last-updated": "2021-06-29",
+        "locale": "pl",
+        "message-documentation": "pl translation file"
+    },
+    "why_clodea": "Dlaczego Clo-dea?",
+    "services": "Usługi",
+    "employer_panel": "Panel pracodawcy",
+    "candidate_panel": "Panel kandydatów",
+    "login_as_employer": "zaloguj się jako pracodawca",
+    "login_as_candidate": "zaloguj się jako kandydat",
+    "top_page_paragraph_1": "Najwieksza baza",
+    "top_page_paragraph_2": "specjalistów IT tylko",
+    "top_page_paragraph_3": "dla Twojej firmy !",
+    "top_page_paragraph_4": "Rekrutuj szybciej i efektywniej!",
+    "top_page_option_1": "INNOWACYJNOŚĆ",
+    "top_page_option_2": "BACK OFFICE",
+    "top_page_option_3": "ANALITYKA",
+    "top_page_option_box": "SPRAWDŹ PAKIETY DOSTĘPNOŚCI DO BAZY DANYCH KANDYDATÓW"
+}

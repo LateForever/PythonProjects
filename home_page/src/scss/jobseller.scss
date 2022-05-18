@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500;600;700;800;900&display=swap');
+
+.jobseller_title {
+    margin-top: 50px;
+    color: #66FCF1;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 46.51px;
+    font-family: 'Darker Grotesque', sans-serif;   
+
+}
+
+.jobseller_subtitle {
+    margin-top: 50px;
+    color: #CFFAFA;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 33.93px;
+    font-family: 'Darker Grotesque', sans-serif;   
+}
+
+.jobseller_div_container {
+    width: 1100px;
+    margin: 20px auto 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    div {
+        width: 245px;
+        height: 212px;
+        border-radius: 10px;
+        background: #fff;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #000;
+        font-family: 'Darker Grotesque', sans-serif; 
+
+        p {
+            margin: 0 47px;
+        }  
+    }
+
+    div:nth-child(1) { 
+        border: 4px solid #FFE975; 
+    
+    }
+
+    div:nth-child(2) {
+        border: 4px solid #FFC444; 
+    }
+
+    div:nth-child(3) {
+        border: 4px solid #FFBA26; 
+    }
+
+    div:nth-child(4) {
+        border: 4px solid #FF8421;
+    } 
+}
+
+.jobseller_signin {
+    width: 835px;
+    margin: 50px auto;
+    height: 366px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Darker Grotesque', sans-serif; 
+
+    p {
+        height: 37px;
+        font-size: 24px;
+        line-height: 15.5px;
+        color: #fff;
+    }
+
+    div {
+        display: flex;
+        flex-direction: row;
+
+        .jobseller_form {
+            width: 417px;
+            height: 329px;
+        }
+
+        .jobseller_quick_signin {
+            width: 417px;
+            height: 329px;
+        }
+    }
+}
+
+.jobseller_sideborder {
+    background: #82EDED;
+    width: 1px;
+    height: 329px;
+}
+// 540px text align left

@@ -1,0 +1,24 @@
+{
+    "@metadata": {
+        "authors": [
+            "Albert"
+        ],
+        "last-updated": "2021-06-29",
+        "locale": "en",
+        "message-documentation": "en translation file"
+    },
+    "why_clodea": "Why Clo-dea?",
+    "services": "Services",
+    "employer_panel": "Employer panel",
+    "candidate_panel": "Candidate panel",
+    "login_as_employer": "login as an employer",
+    "login_as_candidate": "login as an candidate",
+    "top_page_paragraph_1": "The largest base",
+    "top_page_paragraph_2": "It professionals only",
+    "top_page_paragraph_3": "for your company!",
+    "top_page_paragraph_4": "Recruit faster and more efficiently!",
+    "top_page_option_1": "INNOVATION",
+    "top_page_option_2": "BACK OFFICE",
+    "top_page_option_3": "ANALYTICS",
+    "top_page_option_box": "CHECK AVAILABILITY PACKAGES FOR THE CANDIDATE DATABASE"
+}
